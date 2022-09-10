@@ -5,7 +5,7 @@
 
 
 ### Overview
-The purpose of this project was to present a high level analysis of the usage of the citbike system in NYC in order to replicate the business model in the city of Des Moines. Using tableau, we were able to create engaging visual representations of the most important data that will convince possible investor in the viability of our project. 
+The purpose of this project was to present a high-level analysis of the usage of the citbike system in NYC in order to replicate the business model in the city of Des Moines. Using tableau, we were able to create engaging visual representations of the most important data that will convince possible investor in the viability of our project. 
 
 ### Results
 These are the most important findings:
@@ -35,10 +35,10 @@ The heatmap shows the number of bike trips by weekday separated by hours of the 
 As for the previous set of graphs, this image shows the usage by weekday by hours of the day, with the possibility to analyze the data for the gender of the users.
 
 
-*Fig 5. Usertype by gender*
+*Fig 5. User type by gender*
 
 ![CitiBike (4)](https://user-images.githubusercontent.com/22451540/161120435-c99e2d19-8e9a-4b60-a919-3409e76d28af.png)
-Building up on the previous information, we are showing the number of trips broken down by gender and specific fo the different types of users.
+Building up on the previous information, we are showing the number of trips broken down by gender and specific for the different types of users.
 
 
 *Fig 6. Peak hours*
@@ -54,9 +54,9 @@ Finally, this map locates the most popular sites for users to begin their trips.
 
 
 ### Summary
-These visualizations are a great way to make informed decisions to replicate the business model elsewhere. For example, we can see that the top starting locations are close to touristic sites which can provide useful insights as to where to place stations in different cities. The breakdown by gender is also useful since we can expect similar behaviours in other places.
+These visualizations are a great way to make informed decisions to replicate the business model elsewhere. For example, we can see that the top starting locations are close to touristic sites which can provide useful insights as to where to place stations in different cities. The breakdown by gender is also useful since we can expect similar behaviors in other places.
 
 #### Future analysis
-To provide a deeper analysis of the information and facilitate the decision making process it would be useful to:
+To provide a deeper analysis of the information and facilitate the decision-making process it would be useful to:
 - Compare users by gender and time of trips. This can indicate security concerns for some passengers and knowing this can improve the service provided. 
 - It would also be useful to repeat the process with information from different months.
